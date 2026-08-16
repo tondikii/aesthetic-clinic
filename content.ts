@@ -1,5 +1,10 @@
 export const siteContent = {
   ui: {
+    demoBanner: {
+      badge: "Demo",
+      text: "Situs demo landing page Aesthetic Clinic",
+      close: "Tutup banner demo",
+    },
     beforeLabel: "Sebelum",
     afterLabel: "Sesudah",
     compareHint: "Geser untuk membandingkan",
